@@ -1,2 +1,3 @@
 # managegit
-# premier ecris 
+# premier ecris
+# modifier a partir du terminal et vim 
